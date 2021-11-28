@@ -9,19 +9,19 @@ Example: shared element transition
 ## Usage
 + Start
     ```
-    cd element-transitions
+    cd shared-element-transitions
     expo start
 
     ```
 
 + Run android
     ```
-    cd element-transitions
+    cd shared-element-transitions
     expo start --android
     ```
 
 + Run iOS
     ```
-    cd element-transitions
+    cd shared-element-transitions
     expo start --ios
     ```
