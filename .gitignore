@@ -1,4 +1,4 @@
-node_modules/
+shared-element-transitions/node_modules/
 .expo/
 dist/
 npm-debug.*
